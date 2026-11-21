@@ -1,0 +1,7 @@
+{
+  "name": "MyNerdLibrary",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
